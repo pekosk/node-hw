@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/pekosk/node-hw#readme",
   "devDependencies": {
-    "commander": "^9.3.0",
     "jest": "^28.1.2",
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "commander": "^9.3.0"
   }
 }
